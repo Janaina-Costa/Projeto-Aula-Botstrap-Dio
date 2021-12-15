@@ -1,0 +1,26 @@
+@media (min-width:885px){
+    #continue-lendo{
+        display: none;
+    }
+    .modalNovo{
+        display: none;
+    }
+    .modalNovo:target + .fundoModal{
+        background: none;
+    }
+}
+
+@media  (max-width:883px) {
+    #menos{
+        display: none;
+
+    }
+    .nav-link{
+        display: inline;
+        justify-content: flex-start;
+    }
+
+   
+
+    
+}
