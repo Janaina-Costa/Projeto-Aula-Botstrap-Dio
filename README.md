@@ -9,6 +9,6 @@ A partir da base da aula, aproveitei o gancho do provedor do meu Bootcamp para t
 <br>:rocket: Efeito de zoom com mouse;
 <br>:rocket: Janela Modal a partir do click no link 'Leia mais'
 
-<img src="/docs/logo.png" alt="My cool logo"/>
+<img src="/img/Projeto Final - Imagem.jpg" alt="Pagina web com bootstrap"/>
 
 
